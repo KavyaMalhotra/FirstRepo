@@ -1,2 +1,3 @@
 # FirstRepo
-This is my 1st git
+This is my 1st git.
+ - Kavya Malhotra
